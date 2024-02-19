@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnalysisReport</string>
+    <string name="stock_name">Stock Name</string>
+    <string name="exchange">Exchange</string>
+    <string name="welcome_to_stock_technical_analysis_by_sai">Welcome to Stock Technical Analysis by Sai!</string>
+    <string name="get_analysis_report">Get Analysis Report</string>
+</resources>
